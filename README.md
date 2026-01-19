@@ -1,13 +1,13 @@
 # End-to-End Machine Learning Project with Deployment 🚀
 
 This repository contains an **end-to-end machine learning project** with a complete pipeline (data ingestion → transformation → model training → prediction) and a **Flask web application** for deployment.  
+
 The project also supports deployment on **AWS Elastic Beanstalk** and can be extended to any cloud platform.
 
 ---
 
 ## 🔗 Live Demo
 ✅ Deployed Application: **<http://studentexamperformanceprediction-env-1.eba-wtw2naqz.ap-south-1.elasticbeanstalk.com/predictdata>**  
-Example: https://your-app-url.com
 
 ---
 
